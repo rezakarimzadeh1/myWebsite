@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Sharif University of Technology
+    url: http://www.en.sharif.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
