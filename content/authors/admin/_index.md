@@ -1,7 +1,7 @@
 ---
 title: Reza Karimzadeh
 role: Master Student of Biomedical Engineering
-bio: My research interests include distributed robotics, mobile computing and
+bio: My research interests include Artificial Intelligence, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
@@ -11,7 +11,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: telegram
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
