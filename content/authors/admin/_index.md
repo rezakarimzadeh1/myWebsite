@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: Rezakarimzadeh1996@gmail.com
+    link: "{mailto:Rezakarimzadeh1996@gmail.com}{Rezakarimzadeh1996@gmail.com}"
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=80MfVJ8AAAAJ&hl=en
