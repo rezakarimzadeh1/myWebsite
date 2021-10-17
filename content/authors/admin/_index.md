@@ -1,8 +1,9 @@
 ---
 title: Reza Karimzadeh
 role: Master Student of Biomedical Engineering
-bio: My research interests include Artificial Intelligence, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpg
+bio: My research interests include Image Processing, Deep Learning, Computer
+  Vision, Machine Learning and Artificial Neural Networks.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -41,8 +42,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi!! I'm REZA. a master's student at Sharif University of Technology at Biomedical Signal and Image
+ Processing Laboratory (BiSIPL). My research interests include medical images analysis and processing, usage of deep learning in image processing, computer vision, and neural networks. Also, I'm so passionate about team working on world-leading topics in my research interests circumvent.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/121F7IQHhIAubXqeoUO0Rj7kaYiAnca_u/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
