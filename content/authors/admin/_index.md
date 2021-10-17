@@ -38,9 +38,6 @@ education:
     - course: B.Sc. Biomedical Engineering
       institution: Amirkabir University of Technology
       year: 2014
-    - course: DIPLOMA IN MATHEMATICS AND PHYSICS DISCIPLINE
-      institution: National Organization for Developing Exceptional Talents
-      year: 2014
 email: ""
 superuser: true
 highlight_name: true
