@@ -37,7 +37,7 @@ education:
       year: 2021
     - course: B.Sc. Biomedical Engineering
       institution: Amirkabir University of Technology
-      year: 2014
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
