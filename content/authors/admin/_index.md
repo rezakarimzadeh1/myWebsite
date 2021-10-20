@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/reza-karimzadeh-304900104/
   - display:
       header: false
-    icon_pack: fas
+    icon_pack: fab
     icon: researchgate
     link: https://www.researchgate.net/profile/Reza-Karimzadeh
 organizations:
