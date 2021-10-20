@@ -25,7 +25,7 @@ social:
   - display:
       header: false
     icon_pack: fas
-    icon: graduation-cap
+    icon: researchgate
     link: https://www.researchgate.net/profile/Reza-Karimzadeh
 organizations:
   - name: Sharif University of Technology
