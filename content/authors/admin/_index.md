@@ -45,4 +45,4 @@ highlight_name: true
 Hi!! I'm REZA. a master's student at Sharif University of Technology at Biomedical Signal and Image
  Processing Laboratory (BiSIPL). My research interests include medical image analysis and processing, usage of deep learning in image processing, computer vision, and neural networks. Also, I'm so passionate about team working on world-leading topics in my research interests circumvent.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1qIYyHDk03VodSvd9jSMHm4HL7TS2faU4/view?usp=sharing" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref  "uploads/RezaKarimzadehCV.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
