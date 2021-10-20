@@ -1,5 +1,5 @@
 ---
-title: Reza Karimzadeh
+title: "Reza Karimzadeh "
 role: Master Student of Biomedical Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include Image Processing, Deep Learning, Computer
