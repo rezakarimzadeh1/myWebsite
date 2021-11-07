@@ -36,7 +36,19 @@ experience:
         * Image stitching (Panorama)
         * Stabilizing the Rotation Speed of DC Motor under Different Loads using digital controller
         * Design and Implementation of room lighting control equipment with mobile for patients
-
+        
+  - title: Internship
+    company: Electro X-ray Company
+    company_url: ''
+    company_logo: org-x
+    location: Tehran
+    date_start: '2017-06-01'
+    date_end: '2017-10-31'
+    description: |2-
+        Becoming familiar with Repair and maintenance of imaging systems such as MRI, CT, Portable Radiology devices, etc.
+        * 
+         
+           
 
 design:
   columns: '2'
