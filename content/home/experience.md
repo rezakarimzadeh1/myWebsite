@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Computer and Electrical Freelancer
-    company: ''
+    company: Freelance
     company_url: ''
     company_logo: org-gc
     location: Tehran
