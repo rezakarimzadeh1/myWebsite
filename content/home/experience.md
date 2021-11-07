@@ -44,7 +44,8 @@ experience:
     location: Tehran
     date_start: '2017-06-01'
     date_end: '2017-09-31'
-    description: Becoming familiar with Repair and maintenance of imaging systems such as MRI, CT, Portable Radiology device, etc.
+    description: |2-
+         Becoming familiar with Repair and maintenance of imaging systems such as MRI, CT, Portable Radiology devices, etc.
            
 
 design:
