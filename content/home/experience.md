@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Teaching experiences
+    company: Sharif University of Technology
+    company_url: ''
+    company_logo: sharif
+    location: Tehran
+    date_start: '2019-09-01'
+    date_end: ''
+    description: |2-
+        Teaching Assistant:       
+        * Deep Learning
+        * Medical Images Analysis and Processing
+        * Medical Imaging systems
+
+
   - title: Computer and Electrical Freelancer
     company: Freelance
     company_url: ''
@@ -40,13 +54,15 @@ experience:
   - title: Internship
     company: Electro X-ray Company
     company_url: ''
-    company_logo: org-x
+    company_logo: xray
     location: Tehran
     date_start: '2017-06-01'
     date_end: '2017-10-31'
     description: |2-
-        Becoming familiar with Repair and maintenance of imaging systems such as MRI, CT, Portable Radiology devices, etc.
-        * 
+        Becoming familiar with Repair and maintenance of imaging systems such as:
+        * MRI
+        * CT
+        * Portable Radiology devices
          
            
 
