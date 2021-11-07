@@ -30,8 +30,7 @@ experience:
     date_start: '2018-01-01'
     date_end: ''
     description: |2-
-        Projects samples:
-        
+        Projects samples:       
         * Tumor segmentation in pet images
         * Medical images denoising using varoius methods such as total variation, non-local mean, diffusion, etc.
         * Image stitching (Panorama)
