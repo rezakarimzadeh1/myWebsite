@@ -20,7 +20,7 @@ url_video: ""
 title: "Knowledge distillation: a strategy to enhance performance of deep
   learning-based seminal segmentation"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
