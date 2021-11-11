@@ -5,16 +5,24 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - Karimzadeh R.
-  - Fatemizadeh E.
-  - Arabi H.
-  - Zaidi H
-author_notes: []
-publication: In * IEEE NSS and Medical Imaging Conference 2021*
+  - Reza Karimzadeh
+  - Emad Fatemizadeh
+  - Hossein Arabi
+  - Habib Zaidi
+author_notes:
+  - Department of Electrical Engineering; Sharif University of Technology;
+    Tehran; Iran
+  - Department of Electrical Engineering; Sharif University of Technology;
+    Tehran; Iran
+  - Division of Nuclear Medicine and Molecular Imaging; Geneva University
+    Hospital; CH-1211 Geneva 4; Switzerland
+  - Division of Nuclear Medicine and Molecular Imaging; Geneva University
+    Hospital; CH-1211 Geneva 4; Switzerland
+publication: In *IEEE NUCLEAR SCIENCE SYMPOSIUM AND MEDICAL IMAGING CONFERENCE2021*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *IEEE NSS and MIC*
+publication_short: In *IEEE NUCLEAR SCIENCE SYMPOSIUM AND MEDICAL IMAGING CONFERENCE 2021*
 url_source: ""
 url_video: ""
 title: "Knowledge distillation: a strategy to enhance performance of deep
