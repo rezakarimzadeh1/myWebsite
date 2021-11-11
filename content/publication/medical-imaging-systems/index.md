@@ -8,6 +8,8 @@ authors:
   - Froozanfar A.
   - Reza Karimzadeh
   - Shaygan S.
+publication: Medical Equipment Book
+publication_short: Medical Equipment Book
 draft: false
 featured: false
 image:
