@@ -1,6 +1,6 @@
 ---
 abstract: ""
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -22,15 +22,14 @@ title: "Knowledge distillation: a strategy to enhance performance of deep
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
