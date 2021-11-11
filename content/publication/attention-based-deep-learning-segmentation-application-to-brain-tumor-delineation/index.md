@@ -14,8 +14,8 @@ author_notes:
     Tehran; Iran
   - Division of Nuclear Medicine and Molecular Imaging; Geneva University
     Hospital; CH-1211 Geneva 4; Switzerland
-publication: In *IEEE IRANINA CONFERENCE ON BIOMEDICAL ENGINEERING 2021*
-publication_short: In *IEEE IRANINA CONFERENCE ON BIOMEDICAL ENGINEERING 2021*
+publication: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2021*
+publication_short: In *IEEE IRANIAN CONFERENCE ON BIOMEDICAL ENGINEERING 2021*
 draft: false
 featured: false
 image:
