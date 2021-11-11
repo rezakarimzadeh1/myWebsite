@@ -44,6 +44,6 @@ image:
   filename: sim.png
   focal_point: Smart
   preview_only: false
-  caption: https://youtu.be/OEBFIWKelBI
+  caption: (https://youtu.be/OEBFIWKelBI)
 date: 2021-11-11T14:39:35.243Z
 ---
