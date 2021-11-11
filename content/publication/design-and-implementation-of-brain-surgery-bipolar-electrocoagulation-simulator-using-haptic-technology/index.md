@@ -9,7 +9,14 @@ authors:
   - Hamed Azarnoush
   - Hossein Arabi
 author_notes:
-  - Department
+  - Department of Electrical Engineering; Sharif University of Technology;
+    Tehran; Iran
+  - Department of Computer Engineering; Amirkabir University of Technology
+    (Tehran Polytechnic); Tehran; Iran
+  - Department of Biomedical Engineering; Amirkabir University of Technology
+    (Tehran Polytechnic); Tehran; Iran
+  - Division of Nuclear Medicine and Molecular Imaging; Geneva University
+    Hospital; CH-1211 Geneva 4; Switzerland
 publication: October 2021
 abstract: In recent years, one of the most widely used tools in the training and
   evaluation of physicians and surgeons is surgical simulators. Introducing
