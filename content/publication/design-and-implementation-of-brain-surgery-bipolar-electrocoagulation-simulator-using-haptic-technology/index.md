@@ -37,8 +37,11 @@ draft: false
 featured: true
 tags:
   - Bipolar electrocoagulation
+  - Haptic feedback
+  - Virtual reality
+  - neurosurgical simulation
 image:
-  filename: https://youtu.be/OEBFIWKelBI
+  filename: sim.png
   focal_point: Smart
   preview_only: false
 date: 2021-11-11T14:39:35.243Z
