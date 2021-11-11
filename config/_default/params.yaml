@@ -35,7 +35,7 @@ contact_links:
     name: Skype Me
     link: 'skype:rezakarimzadeh1996?call'
   - icon: telegram
-    icon_pack: fas
+    icon_pack: fab
     name: Chat on Telegram
     link: 'https://t.me/Reza_k_1996'
 
