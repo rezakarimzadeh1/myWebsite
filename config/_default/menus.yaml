@@ -10,6 +10,9 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
+    - name: Experience
+    url: '#Experience'
+    weight: 20
   - name: Publications
     url: '#featured'
     weight: 50
