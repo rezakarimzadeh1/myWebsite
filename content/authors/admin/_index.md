@@ -1,6 +1,5 @@
 ---
-title: "Reza Karimzadeh "
-role: Master Student of Biomedical Engineering
+role: Graduated Master Student of Biomedical Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include Image Processing, Deep Learning, Computer
   Vision, Machine Learning and Artificial Neural Networks.
@@ -38,11 +37,12 @@ education:
     - course: B.Sc. Biomedical Engineering
       institution: Amirkabir University of Technology
       year: 2019
-email: ""
 superuser: true
 highlight_name: true
+title: "Reza Karimzadeh "
+email: ""
 ---
-Hi!! I'm REZA. a master's student at Sharif University of Technology at Biomedical Signal and Image
+Hi!! I'm REZA. a graduated master's student at Sharif University of Technology at Biomedical Signal and Image
  Processing Laboratory (BiSIPL). My research interests include medical image analysis and processing, usage of deep learning in image processing, computer vision, and neural networks. I received my B.Sc. degree from Amirkabir University of Technology in biomedical engineering in 2019. Also, I'm so passionate about team working on world-leading topics in my research interests circumvent.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref  "uploads/RezaKarimzadehCV.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}.
