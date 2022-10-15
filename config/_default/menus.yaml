@@ -12,7 +12,7 @@ main:
     weight: 20
   - name: Accomplishments
     url: '#accomplishments'
-    weight: 20
+    weight: 30
   - name: Publications
     url: '#featured'
     weight: 50
