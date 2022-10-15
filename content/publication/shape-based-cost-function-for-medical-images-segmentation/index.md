@@ -1,7 +1,8 @@
 ---
-title: Shape based cost function for medical images segmentation
+title: A novel shape-based loss function for machine learning-based seminal
+  organ segmentation in medical imaging
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Reza Karimzadeh
   - Emad Fatemizadeh
